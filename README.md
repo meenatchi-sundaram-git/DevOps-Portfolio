@@ -13,16 +13,15 @@ Welcome! I am a DevOps Engineer focusing on automation and container orchestrati
 ## 🐳 Docker Projects
 *Detailed assignments focusing on containerization and image optimization.*
 
-### 📋 Assignment 1: Web Showcase Container
-- **Goal:** Build a multi-page web app inside Docker.
+### 📋 Assignment 1: Custom Web Showcase Container
+- **Goal:** Custom Web Showcase Container
 - **Status:** ✅ Completed
-- **Details:** [View Purpose & Process →](./Projects/docker-assignment1.md)
+- **Details:** [View Documentation & Guide →](./Projects/docker-assignment1.md)
 
 ### 📋 Assignment 2: Image Optimization
 - **Goal:** Implementing multi-stage builds to reduce image size.
-- **Status:** 🛠️ In Progress
-- **Details:** [View Purpose & Process →](./Projects/docker-assignment2.md)
-
+- **Status:** ✅ Completed
+- **Details:** [View Documentation & Guide →](./Projects/docker-assignment2.md)
 ---
 
 ## ☸️ Kubernetes Projects
