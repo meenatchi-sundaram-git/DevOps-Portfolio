@@ -16,12 +16,12 @@ Welcome! I am a DevOps Engineer focusing on automation and container orchestrati
 ### 📋 Assignment 1: Web Showcase Container
 - **Goal:** Build a multi-page web app inside Docker.
 - **Status:** ✅ Completed
-- **Details:** [View Purpose & Process →](./projects/docker-assignment1.md)
+- **Details:** [View Purpose & Process →](./Projects/docker-assignment1.md)
 
 ### 📋 Assignment 2: Image Optimization
 - **Goal:** Implementing multi-stage builds to reduce image size.
 - **Status:** 🛠️ In Progress
-- **Details:** [View Purpose & Process →](./projects/docker-assignment2.md)
+- **Details:** [View Purpose & Process →](./Projects/docker-assignment2.md)
 
 ---
 
@@ -31,15 +31,15 @@ Welcome! I am a DevOps Engineer focusing on automation and container orchestrati
 ### 🛠️ Task 1: Kubeadm Cluster Setup
 - **Goal:** Setting up a highly available master-worker architecture.
 - **Status:** ✅ Completed
-- **Details:** [View Documentation & Guide →](./projects/k8s-task1.md)
+- **Details:** [View Documentation & Guide →](./Projects/k8s-task1.md)
 
 ### 🛠️ Task 2: Helm Chart Deployment
 - **Goal:** Automating application releases using Helm charts.
 - **Status:** ✅ Completed
-- **Details:** [View Documentation & Guide →](./projects/k8s-task2.md)
+- **Details:** [View Documentation & Guide →](./Projects/k8s-task2.md)
 
 ---
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/meenatchi-sundaram-276002318)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:meenatchisundaram365@gmail.com)
