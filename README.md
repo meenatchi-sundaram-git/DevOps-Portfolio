@@ -21,7 +21,7 @@ Welcome! I am a DevOps Engineer focusing on automation and container orchestrati
 ### 📋 Assignment 2: Modern Web Live-Sync with Docker
 - **Goal:** Implementing multi-stage builds to reduce image size.
 - **Status:** ✅ Completed
-- **Details:** [View Documentation & Guide →](./Projects/docker-assignment1.md)
+- **Details:** [View Documentation & Guide →](./Projects/docker-assignment2.md)
 ---
 
 ## ☸️ Kubernetes Projects
