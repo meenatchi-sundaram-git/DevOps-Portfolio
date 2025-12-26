@@ -18,7 +18,7 @@ This project demonstrates a high-performance, modern developer portfolio for **A
 Run this command in your terminal to initialize the environment:
 
 ```bash
-docker run -d --name web-aravind -p 8080:80 -v /mnt/d/Docker:/usr/share/nginx/html nginx:alpine
+docker run -d --name web-aravind -p 8080:80 -v /mnt/d/Docker:/usr/share/nginx/html nginx:alpine```
 
 ## Commands Breakdown
 
